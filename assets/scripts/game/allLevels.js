@@ -23,10 +23,3 @@ window.allLevels = [
 	    "level_4",
 	    ["RobTop", "DJVI" ]
     ],
-    [
-        "base_after_base",
-	    "Abobir madness",
-	    "level_5",
-	    ["RobTop", "DJVI" ]
-    ],
-    
